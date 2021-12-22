@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+web_modules
+.firebase
+.firebaserc
+.glitchdotcom.json
+.pm2
+.snowpack
+build
+nginx.pid

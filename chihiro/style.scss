@@ -1,0 +1,39 @@
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+}
+
+body {
+  background: linear-gradient(#9480FF, #D7F5EF);
+}
+
+// ***********************************
+// header
+// ***********************************
+.header {
+  text-align: center;
+  color: #fff;
+  &_icon {
+    border-radius: 100px;
+  }
+}
+
+// ***********************************
+// contents
+// ***********************************
+.contents {
+  list-style: none;
+  &_item {
+    width: 300px;
+    background-color: palegoldenrod;
+    text-align: center;
+    text-decoration: none;
+  }
+  &_item a {
+    
+  }
+}
